@@ -260,28 +260,35 @@ The current application can be further improved with:
 
 ## 📸 More Project Documentation
 
-<p align="center">
-  <img src="screenshots/05-features-how-to-run.jpg" width="48%" alt="Features and How to Run">
-  <img src="screenshots/06-project-structure.jpg" width="48%" alt="Project Structure">
-</p>
+🏠 01 — Main Menu
+<img width="826" height="453" alt="WhatsApp Image 2026-08-17 at 15 53 35" src="https://github.com/user-attachments/assets/f255cbcc-cc99-47e6-a938-dc887e281b0c" />
 
-<p align="center">
-  <img src="screenshots/07-requirements-checklist.jpg" width="48%" alt="Requirements Checklist">
-  <img src="screenshots/08-future-enhancements-learning.jpg" width="48%" alt="Future Enhancements">
-</p>
+📝 02 — Add New Entry
+<img width="1599" height="625" alt="WhatsApp Image 2026-08-17 at 15 53 35 (1)" src="https://github.com/user-attachments/assets/9c2e70dc-8a44-4677-8838-bae7c92451ee" />
 
-<p align="center">
-  <img src="screenshots/09-learning-outcomes.jpg" width="48%" alt="Learning Outcomes">
-  <img src="screenshots/10-author-conclusion.jpg" width="48%" alt="Author and Conclusion">
-</p>
+📖 03 — View All Entries
+<img width="1213" height="407" alt="WhatsApp Image 2026-08-17 at 15 53 35 (2)" src="https://github.com/user-attachments/assets/60113af5-3494-440b-885f-fba324fd43ef" />
+
+🔍 04 Search Entry
+
+<img width="1688" height="396" alt="WhatsApp Image 2026-08-17 at 15 53 37" src="https://github.com/user-attachments/assets/faa5147f-9fa0-4683-a185-6387d895b04c" />
+
+✅ 05 — Delete Success
+
+<img width="1496" height="358" alt="WhatsApp Image 2026-08-17 at 15 53 37 (1)" src="https://github.com/user-attachments/assets/470247c9-b50e-4c7b-bdac-ddda4f637ac0" />
+
+
+👋 06 — Exit
+
+<img width="1343" height="358" alt="WhatsApp Image 2026-08-10 at 22 09 11" src="https://github.com/user-attachments/assets/e0bc938d-e8bf-43e4-8420-774b9fc3b49e" />
 
 ---
 
 ## 👨‍💻 Author
 
-### Chand Khimani
+### Vishwas Solanki
 
-🎓 **BCA — Final Year Student**  
+🎓 **b.com-f.y student**  
 📊 **Data Analysis Learner**  
 🐍 **Python • OOP • File Handling**
 

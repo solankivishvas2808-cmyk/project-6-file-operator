@@ -235,6 +235,7 @@ The current application can be further improved with:
 ## 📸 More Project Documentation
 
 🏠 01 — Main Menu
+
 <img width="826" height="453" alt="WhatsApp Image 2026-08-17 at 15 53 35" src="https://github.com/user-attachments/assets/f255cbcc-cc99-47e6-a938-dc887e281b0c" />
 
 

@@ -36,32 +36,6 @@ It is designed as a learning project with a focus on **Python File Handling, Obj
 
 ---
 
-## 🖥️ Application Preview
-
-### 🏠 Main Menu
-
-<p align="center">
-  <img src="screenshots/01-main-menu.jpg" width="720" alt="Personal Journal Manager Main Menu">
-</p>
-
-### 🧪 Sample Execution
-
-<p align="center">
-  <img src="screenshots/02-sample-execution.jpg" width="720" alt="Personal Journal Manager Sample Execution">
-</p>
-
-### 🔍 View, Search & Delete
-
-<p align="center">
-  <img src="screenshots/03-view-search-delete.jpg" width="720" alt="View Search Delete">
-</p>
-
-<p align="center">
-  <img src="screenshots/04-search-delete-invalid.jpg" width="720" alt="Search Delete and Input Validation">
-</p>
-
----
-
 ## 🧠 Concepts Demonstrated
 
 This project practically implements the following Python concepts:
@@ -263,15 +237,23 @@ The current application can be further improved with:
 🏠 01 — Main Menu
 <img width="826" height="453" alt="WhatsApp Image 2026-08-17 at 15 53 35" src="https://github.com/user-attachments/assets/f255cbcc-cc99-47e6-a938-dc887e281b0c" />
 
+
+
 📝 02 — Add New Entry
 <img width="1599" height="625" alt="WhatsApp Image 2026-08-17 at 15 53 35 (1)" src="https://github.com/user-attachments/assets/9c2e70dc-8a44-4677-8838-bae7c92451ee" />
+
+
 
 📖 03 — View All Entries
 <img width="1213" height="407" alt="WhatsApp Image 2026-08-17 at 15 53 35 (2)" src="https://github.com/user-attachments/assets/60113af5-3494-440b-885f-fba324fd43ef" />
 
+
+
 🔍 04 Search Entry
 
 <img width="1688" height="396" alt="WhatsApp Image 2026-08-17 at 15 53 37" src="https://github.com/user-attachments/assets/faa5147f-9fa0-4683-a185-6387d895b04c" />
+
+
 
 ✅ 05 — Delete Success
 
